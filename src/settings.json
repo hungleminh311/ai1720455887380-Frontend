@@ -1,0 +1,64 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "Experience professional and reliable car rental services tailored to your needs",
+        "title": "Effortless Car Rentals for Your Journey"
+      }
+    },
+    {
+      "id": "HeroSimpleCentered",
+      "variables": {
+        "subtitle": "Experience professional and reliable car rental services tailored to your needs",
+        "title": "Effortless Car Rentals for Your Journey"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Experience professional and reliable car rental services tailored to your needs",
+        "title": "Effortless Car Rentals for Your Journey"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Experience professional and reliable car rental services tailored to your needs",
+        "title": "Effortless Car Rentals for Your Journey"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Experience professional and reliable car rental services tailored to your needs",
+        "title": "Effortless Car Rentals for Your Journey"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Experience professional and reliable car rental services tailored to your needs",
+        "title": "Effortless Car Rentals for Your Journey"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Experience professional and reliable car rental services tailored to your needs",
+        "title": "Effortless Car Rentals for Your Journey"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Experience professional and reliable car rental services tailored to your needs",
+        "title": "Effortless Car Rentals for Your Journey"
+      }
+    }
+  ],
+  "theme": "minimal",
+  "font": "",
+  "title": "Effortless Car Rentals for Your Journey",
+  "subtitle": "Experience professional and reliable car rental services tailored to your needs"
+}
